@@ -1,0 +1,1 @@
+INSERT INTO accounts values (1, 20000);
